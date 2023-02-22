@@ -16,7 +16,6 @@
 **/client_secret.json
 *creds*
 *.dat
-*password*
 *.httr-oauth*
 
 # Default ignored files
